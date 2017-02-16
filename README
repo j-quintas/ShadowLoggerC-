@@ -1,0 +1,20 @@
+DISCLAIMER:
+
+This is the c++ version of the c# original keylogger that's on this github for educational purposes.
+This was left basically as a "test" project since i never did anything else in c++ for real.
+
+The source code is well commented and almost all of the features are present, except sending any email with the log, or any remote command, basically just local.
+In my opinion this version is somewhat better than the original although it's not finished, i spent many hours optimizing the code individually, all of the three hooks works perfectly.
+
+FEATURES:
+
+Keyboard logging (PT)
+Clipboard logging
+Window changed logging
+Computer info to populate the log.
+No window (completely stealth)
+Memory footpring around 1MB in x86. (didn't test x64)
+
+CONCLUSION:
+
+If you read the code, you'll see this is basically in "Debug mode" , as the original is (although ready to be compiled and used) , that doesn't mean it's not ready for production, it just means i didn't test it further in an actual environment, but there shouldn't be any kind of problems since i did test it and optimized it over several months.
