@@ -17,4 +17,4 @@ Memory footpring around 1MB in x86. (didn't test x64)
 
 CONCLUSION:
 
-If you read the code, you'll see this is basically in "Debug mode" , as the original is (although ready to be compiled and used) , that doesn't mean it's not ready for production, it just means i didn't test it further in an actual environment, but there shouldn't be any kind of problems since i did test it and optimized it over several months.
+This is provided as-is, i've tested it only for local use.
